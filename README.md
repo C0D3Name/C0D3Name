@@ -4,7 +4,7 @@ Building Production AI under real constraints. I take agents from prototype to p
 
 Working on making non-deterministic systems safe, observable, and approvable: eval harnesses, prompt-injection and PII defense, structured red-teaming, observability, and cost/latency engineering.
 
-The current SWE paradigm shift: software is no longer the product, it is the artifact of a well-structured AI pipeline.
+The current SWE paradigm shift: software is no longer the primary, it has become the artifact of proper data engineering and a well-structured AI pipeline.
 
 Background: Software Engineer & Cyberwarfare Specialist, U.S. Air Force (2007). Since then: DoD, fintech, regulated healthcare.
 
