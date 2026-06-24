@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**C0D3Name/C0D3Name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Building Production AI under real constraints. I take agents from prototype to production in regulated environments — and bring safe, auditable AI-integrated development to engineering orgs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on making non-deterministic systems safe, observable, and approvable: eval harnesses, prompt-injection and PII defense, structured red-teaming, observability, and cost/latency engineering.
+
+The current SWE paradigm shift: software is no longer the product, it is the artifact of a well-structured AI pipeline.
+
+Background: Software Engineer & Cyberwarfare Specialist, U.S. Air Force (2007). Since then: DoD, fintech, regulated healthcare.
+
+Stack: Python · .NET/C# · Cloud (AWS/Azure) · MCP · SQL/NoSQL · Terraform/IaC
+
+(Blog + open-source eval harness — coming soon.)
